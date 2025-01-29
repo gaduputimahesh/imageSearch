@@ -12,6 +12,12 @@ A responsive image search application developed using **HTML**, **CSS**, and **J
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **API**: [Unsplash API](https://unsplash.com/documentation)
+- **API**: [Unsplash API]
+  
+# Demo
+<div align="center">
+  <img src="Screenshot%20(176).png" alt="Homepage" width="48%">
+  <img src="Screenshot%20(177).png" alt="Search Results" width="48%">
+</div>
 
 
