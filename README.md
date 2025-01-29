@@ -18,8 +18,10 @@ A responsive image search application developed using **HTML**, **CSS**, and **J
 
 
 ### Homepage
-![Homepage](Screenshot%20(176).png)
+![Screenshot (176)](https://github.com/user-attachments/assets/2ab33ad9-d651-4359-96cb-f98b7bf8309e)
+
 
 ### Search Results
-![Search Results](Screenshot%20(177).png)
+![Screenshot (177)](https://github.com/user-attachments/assets/3395113d-9dfe-4b4e-96d3-a728a6e614c9)
+
 
